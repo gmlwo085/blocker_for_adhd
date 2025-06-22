@@ -1,4 +1,6 @@
-# **\[ENGLISH\] \*한국어 설명서는 하단에 있습니다.**
+# \[ENGLISH\] 
+
+*한국어 설명서는 하단에 있습니다.
 
 # 
 
@@ -6,12 +8,7 @@
 
 A Chrome URL blocking list manager for Windows that blocks distracting websites to increase productivity. Manage websites through a simple GUI and help you keep your promises with the 'strict locking' feature.
 
-## **🖼️ Screenshot**
 
-![][image1]  
-![][image2]
-
-## 
 
 ## **🚀 Installation & Usage**
 
@@ -47,18 +44,12 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 Blog: https://blog.naver.com/aidventure
 
-# **\[한국어어\]**
+# **\[한국어\]**
 
 # **Chrome Blocker\_for\_ADHD**
 
 집중을 방해하는 웹사이트를 **차단**하여 생산성을 높여주는 윈도우용 Chrome URL 차단 목록 관리 프로그램입니다. 간편한 GUI를 통해 웹사이트를 관리하고 '엄격 잠금' 기능으로 스스로의 다짐을 지킬 수 있도록 돕습니다.
 
-## **🖼️ 스크린샷**
-
-![][image3]  
-![][image2]
-
-## 
 
 ## **🚀 설치 및 실행 방법**
 
