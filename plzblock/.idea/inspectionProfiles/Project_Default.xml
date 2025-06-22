@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="70">
+            <item index="0" class="java.lang.String" itemvalue="kornia" />
+            <item index="1" class="java.lang.String" itemvalue="pytorch3d" />
+            <item index="2" class="java.lang.String" itemvalue="clyent" />
+            <item index="3" class="java.lang.String" itemvalue="transformers" />
+            <item index="4" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="5" class="java.lang.String" itemvalue="streamlit" />
+            <item index="6" class="java.lang.String" itemvalue="tensorboard-data-server" />
+            <item index="7" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="8" class="java.lang.String" itemvalue="torch" />
+            <item index="9" class="java.lang.String" itemvalue="tensorflow-io-gcs-filesystem" />
+            <item index="10" class="java.lang.String" itemvalue="termcolor" />
+            <item index="11" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="12" class="java.lang.String" itemvalue="trio" />
+            <item index="13" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="14" class="java.lang.String" itemvalue="conda-repo-cli" />
+            <item index="15" class="java.lang.String" itemvalue="conda-verify" />
+            <item index="16" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="17" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="18" class="java.lang.String" itemvalue="webencodings" />
+            <item index="19" class="java.lang.String" itemvalue="absl-py" />
+            <item index="20" class="java.lang.String" itemvalue="google-pasta" />
+            <item index="21" class="java.lang.String" itemvalue="protobuf" />
+            <item index="22" class="java.lang.String" itemvalue="opt-einsum" />
+            <item index="23" class="java.lang.String" itemvalue="atomicwrites" />
+            <item index="24" class="java.lang.String" itemvalue="h11" />
+            <item index="25" class="java.lang.String" itemvalue="rawg" />
+            <item index="26" class="java.lang.String" itemvalue="gast" />
+            <item index="27" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="28" class="java.lang.String" itemvalue="patsy" />
+            <item index="29" class="java.lang.String" itemvalue="pyls-spyder" />
+            <item index="30" class="java.lang.String" itemvalue="appdirs" />
+            <item index="31" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="32" class="java.lang.String" itemvalue="safetensors" />
+            <item index="33" class="java.lang.String" itemvalue="starlette" />
+            <item index="34" class="java.lang.String" itemvalue="astunparse" />
+            <item index="35" class="java.lang.String" itemvalue="PyDispatcher" />
+            <item index="36" class="java.lang.String" itemvalue="keras" />
+            <item index="37" class="java.lang.String" itemvalue="fuzzywuzzy" />
+            <item index="38" class="java.lang.String" itemvalue="rawgpy" />
+            <item index="39" class="java.lang.String" itemvalue="Flask-Caching" />
+            <item index="40" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="41" class="java.lang.String" itemvalue="libclang" />
+            <item index="42" class="java.lang.String" itemvalue="h5py" />
+            <item index="43" class="java.lang.String" itemvalue="wsproto" />
+            <item index="44" class="java.lang.String" itemvalue="attrs" />
+            <item index="45" class="java.lang.String" itemvalue="PyQtWebEngine" />
+            <item index="46" class="java.lang.String" itemvalue="fonttools" />
+            <item index="47" class="java.lang.String" itemvalue="flatbuffers" />
+            <item index="48" class="java.lang.String" itemvalue="optree" />
+            <item index="49" class="java.lang.String" itemvalue="distlib" />
+            <item index="50" class="java.lang.String" itemvalue="igdb-api-v4" />
+            <item index="51" class="java.lang.String" itemvalue="trio-websocket" />
+            <item index="52" class="java.lang.String" itemvalue="selenium" />
+            <item index="53" class="java.lang.String" itemvalue="backports.weakref" />
+            <item index="54" class="java.lang.String" itemvalue="ml-dtypes" />
+            <item index="55" class="java.lang.String" itemvalue="outcome" />
+            <item index="56" class="java.lang.String" itemvalue="python-lsp-jsonrpc" />
+            <item index="57" class="java.lang.String" itemvalue="jsonpointer" />
+            <item index="58" class="java.lang.String" itemvalue="sentence-transformers" />
+            <item index="59" class="java.lang.String" itemvalue="cachelib" />
+            <item index="60" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="61" class="java.lang.String" itemvalue="pipenv" />
+            <item index="62" class="java.lang.String" itemvalue="fastapi" />
+            <item index="63" class="java.lang.String" itemvalue="munkres" />
+            <item index="64" class="java.lang.String" itemvalue="namex" />
+            <item index="65" class="java.lang.String" itemvalue="grpcio" />
+            <item index="66" class="java.lang.String" itemvalue="ply" />
+            <item index="67" class="java.lang.String" itemvalue="inflection" />
+            <item index="68" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="69" class="java.lang.String" itemvalue="kivy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
