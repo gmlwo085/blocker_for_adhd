@@ -85,6 +85,7 @@ LANGUAGES = {
 class RegistryManager:
     """레지스트리 관련 모든 작업을 처리하는 클래스"""
     POLICY_PATH = r"SOFTWARE\Policies\Google\Chrome\URLBlocklist"
+    # Edge도 똑같이 설정 가능. SOFTWARE\Policies\Microsoft\Edge\URLBlocklist 로 변경하면 됨.
     APP_SETTINGS_PATH = r"SOFTWARE\MyTools\ChromeBlocker"  # 앱 설정을 위한 별도 경로
 
     def _open_key(self, path, create=False):
