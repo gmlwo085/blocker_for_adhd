@@ -13,7 +13,7 @@ A Chrome URL blocking list manager for Windows that blocks distracting websites 
 ## **🚀 Installation & Usage**
 
 1. **Clone the repository:**  
-   git clone https://github.com/gmlwo85/blocker\_for\_adhd.git cd blocker\_for\_adhd
+   git clone https://github.com/gmlwo85/blocker_for_adhd.git cd blocker_for_adhd
 
 2. **Install dependencies:**Use the requirements.txt file in the project folder to install the necessary library.  
    pip install \-r requirements.txt
@@ -54,7 +54,7 @@ Blog: https://blog.naver.com/aidventure
 ## **🚀 설치 및 실행 방법**
 
 1. **리포지토리 복제:**  
-   git clone https://github.com/gmlwo85/blocker\_for\_adhd.git cd blocker\_for\_adhd
+   git clone https://github.com/gmlwo85/blocker_for_adhd.git cd blocker_for_adhd
 
 2. **필요 라이브러리 설치:**프로젝트 폴더에 있는 requirements.txt를 사용하여 필요한 라이브러리를 설치합니다.  
    pip install \-r requirements.txt
